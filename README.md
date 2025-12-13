@@ -1,0 +1,130 @@
+# Interstellar - Passive Income HQ
+
+Central command for ideation, research, and planning of passive income web projects.
+
+---
+
+## What is This Repo?
+
+This is **not** a project repo - it's a **meta-repo** for managing multiple passive income projects:
+
+- Brainstorming and researching new ideas
+- Creating detailed session-start documents for new Claude sessions
+- Tracking status across all projects
+- Storing reusable playbooks and templates
+
+Each actual project lives in its own repo with a comprehensive context document.
+
+---
+
+## Quick Start for New Sessions
+
+### Starting Work on Calcverse
+```
+1. Read /docs/session-start/CALCVERSE.md
+2. Check /project-tracker.md for current status
+3. Navigate to calcverse repo
+4. Begin work per the implementation plan
+```
+
+### Starting Work on AI-Deals
+```
+1. Read /docs/session-start/AI-DEALS.md
+2. Check /project-tracker.md for current status
+3. Navigate to ai-deals repo
+4. Begin work per the implementation plan
+```
+
+### Brainstorming New Ideas
+```
+1. Check /docs/ideas/raw/ for captured ideas
+2. Research and document in /docs/ideas/researched/
+3. Use /docs/session-start/_TEMPLATE.md to create session doc
+4. Add to /project-tracker.md
+```
+
+---
+
+## Structure
+
+```
+interstellar/
+├── README.md                    # You are here
+├── project-tracker.md           # Status of all projects
+├── docs/
+│   ├── session-start/           # THE KEY FOLDER
+│   │   ├── CALCVERSE.md         # Full context for calcverse
+│   │   ├── AI-DEALS.md          # Full context for ai-deals
+│   │   └── _TEMPLATE.md         # Template for new projects
+│   ├── ideas/
+│   │   ├── researched/          # Fully researched ideas
+│   │   └── raw/                 # Quick idea captures
+│   └── playbooks/
+│       ├── tech-stack.md        # Standard tech decisions
+│       ├── monetization.md      # Revenue strategies
+│       └── seo-checklist.md     # SEO best practices
+```
+
+---
+
+## Current Projects
+
+| Project | Status | Description | Revenue Target |
+|---------|--------|-------------|----------------|
+| **Calcverse** | 🟡 Ready | Niche calculator network | $1-5K/mo |
+| **AI-Deals** | ⏸️ Queued | AI tool deals aggregator | $2-8K/mo |
+
+See [project-tracker.md](./project-tracker.md) for detailed status.
+
+---
+
+## Playbooks
+
+Reference these when building projects:
+
+- **[Tech Stack](./docs/playbooks/tech-stack.md)** - Standard choices for frameworks, hosting, databases
+- **[Monetization](./docs/playbooks/monetization.md)** - Revenue strategies from ads to subscriptions
+- **[SEO Checklist](./docs/playbooks/seo-checklist.md)** - Technical and content SEO best practices
+
+---
+
+## Session-Start Documents
+
+The `/docs/session-start/` folder contains comprehensive context documents designed for new Claude sessions. Each document includes:
+
+1. **Quick Context** - One-glance project summary
+2. **Full Vision** - What, why, who, differentiators
+3. **Technical Architecture** - Stack, data models, infrastructure
+4. **Implementation Plan** - Phased deliverables with current status
+5. **Critical Files** - Key files and entry points
+6. **AI Agent Context** - Instructions, decisions made, pitfalls
+7. **Session Log** - History of work across sessions
+
+**Goal**: A new Claude session can read one document and start productive work immediately.
+
+---
+
+## Philosophy
+
+### Passive Income Criteria
+
+Projects in this portfolio must meet:
+
+1. **Truly Passive** - Minimal ongoing intervention
+2. **Low Maintenance** - No customer support burden
+3. **Scalable Revenue** - Not tied to hours worked
+4. **Clear Monetization** - Obvious revenue path
+5. **Technical Simplicity** - One-person maintainable
+
+### Build Order
+
+1. Start with most passive option (Calcverse)
+2. Get to MVP before starting next project
+3. Let winners compound, cut losers
+4. Reinvest revenue into scaling
+
+---
+
+## License
+
+Private repository. Not for distribution.
