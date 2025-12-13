@@ -1,14 +1,15 @@
-# AI-DEALS - Session Start Document
+# SIFT - Session Start Document
 
 > **Last Updated**: 2025-12-13
 > **Current Phase**: Queued (After Calcverse)
 > **Project Repo**: Not yet created
+> **Project Name**: Sift
 
 ---
 
 ## 1. Quick Context
 
-**What**: "Slickdeals for AI Tools" - A directory tracking 500+ AI tools with real-time deal aggregation, pricing comparisons, and affiliate monetization.
+**What**: "Sift through the noise" - A directory tracking 500+ AI tools with real-time deal aggregation, pricing comparisons, and affiliate monetization.
 
 **Revenue Model**: Affiliate commissions (60%) + featured listings (25%) + newsletter sponsorships (15%)
 

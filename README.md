@@ -27,11 +27,11 @@ Each actual project lives in its own repo with a comprehensive context document.
 4. Begin work per the implementation plan
 ```
 
-### Starting Work on AI-Deals
+### Starting Work on Sift
 ```
-1. Read /docs/session-start/AI-DEALS.md
+1. Read /docs/session-start/SIFT.md
 2. Check /project-tracker.md for current status
-3. Navigate to ai-deals repo
+3. Navigate to sift repo
 4. Begin work per the implementation plan
 ```
 
@@ -72,7 +72,7 @@ interstellar/
 | Project | Status | Description | Revenue Target |
 |---------|--------|-------------|----------------|
 | **Calcverse** | 🟡 Ready | Niche calculator network | $1-5K/mo |
-| **AI-Deals** | ⏸️ Queued | AI tool deals aggregator | $2-8K/mo |
+| **Sift** | ⏸️ Queued | AI tool deals aggregator - "Sift through the noise" | $2-8K/mo |
 
 See [project-tracker.md](./project-tracker.md) for detailed status.
 

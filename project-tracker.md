@@ -25,14 +25,14 @@
 
 ## Queued Projects
 
-### AI-Deals
+### Sift
 | Field | Value |
 |-------|-------|
 | **Status** | ⏸️ Queued |
 | **Phase** | Waiting for Calcverse MVP |
 | **Repo** | Not yet created |
-| **Session Doc** | [/docs/session-start/AI-DEALS.md](./docs/session-start/AI-DEALS.md) |
-| **Description** | AI tool directory with deal aggregation and affiliate monetization |
+| **Session Doc** | [/docs/session-start/SIFT.md](./docs/session-start/SIFT.md) |
+| **Description** | AI tool directory with deal aggregation - "Sift through the noise" |
 | **Revenue Model** | Affiliates + Featured Listings + Newsletter |
 | **Target Revenue** | $2-8K/month |
 | **Passivity Score** | 9/10 |
@@ -70,7 +70,7 @@
 | Project | Monthly Revenue | Status |
 |---------|-----------------|--------|
 | Calcverse | $0 | Not launched |
-| AI-Deals | $0 | Not launched |
+| Sift | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -93,7 +93,7 @@
 
 **Session Start Docs:**
 - [CALCVERSE.md](./docs/session-start/CALCVERSE.md)
-- [AI-DEALS.md](./docs/session-start/AI-DEALS.md)
+- [SIFT.md](./docs/session-start/SIFT.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**
