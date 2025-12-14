@@ -61,6 +61,25 @@
 
 ---
 
+### Simmer
+| Field | Value |
+|-------|-------|
+| **Status** | ⏸️ Queued |
+| **Phase** | Waiting for other projects |
+| **Repo** | Not yet created |
+| **Session Doc** | [/docs/session-start/SIMMER.md](./docs/session-start/SIMMER.md) |
+| **Description** | Clean recipe aggregator - "Let it simmer" |
+| **Revenue Model** | Affiliate links (Instacart, Amazon) + minimal ads |
+| **Target Revenue** | $2-5K/month |
+| **Passivity Score** | 8/10 |
+| **Last Updated** | 2025-12-13 |
+
+**Key Feature**: Strips recipe site bloat, adds shopping lists, scaling, unit conversion via schema.org structured data
+
+**Next Action**: Begin after other projects or in parallel
+
+---
+
 ## Ideas Pipeline
 
 | Idea | Status | Notes |
@@ -91,6 +110,7 @@
 | Crunch | $0 | Not launched |
 | Sift | $0 | Not launched |
 | HueGo | $0 | Not launched |
+| Simmer | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -105,7 +125,8 @@
 - Selected Crunch (calculator network) as primary project
 - Queued Sift (AI tool deals) as secondary project
 - Added HueGo (color palette generator) with modular 4-mode UI
-- Created comprehensive session-start documents for all three
+- Added Simmer (recipe aggregator) - strips bloat from recipe sites via schema.org
+- Created comprehensive session-start documents for all four projects
 - Created playbooks (tech-stack, monetization, SEO)
 
 ---
@@ -116,6 +137,7 @@
 - [CRUNCH.md](./docs/session-start/CRUNCH.md)
 - [SIFT.md](./docs/session-start/SIFT.md)
 - [HUEGO.md](./docs/session-start/HUEGO.md)
+- [SIMMER.md](./docs/session-start/SIMMER.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**

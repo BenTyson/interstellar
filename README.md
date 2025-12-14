@@ -43,6 +43,14 @@ Each actual project lives in its own repo with a comprehensive context document.
 4. Begin work per the implementation plan
 ```
 
+### Starting Work on Simmer
+```
+1. Read /docs/session-start/SIMMER.md
+2. Check /project-tracker.md for current status
+3. Navigate to simmer repo
+4. Begin work per the implementation plan
+```
+
 ### Brainstorming New Ideas
 ```
 1. Check /docs/ideas/raw/ for captured ideas
@@ -82,6 +90,7 @@ interstellar/
 | **Crunch** | 🟡 Ready | Niche calculator network - "Crunch the numbers" | $1-5K/mo |
 | **Sift** | ⏸️ Queued | AI tool deals aggregator - "Sift through the noise" | $2-8K/mo |
 | **HueGo** | ⏸️ Queued | Modular color palette generator - "Ready, set, HueGo" | $1-5K/mo |
+| **Simmer** | ⏸️ Queued | Clean recipe aggregator - "Let it simmer" | $2-5K/mo |
 
 See [project-tracker.md](./project-tracker.md) for detailed status.
 
