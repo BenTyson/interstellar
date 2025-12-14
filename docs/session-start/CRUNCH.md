@@ -1,8 +1,10 @@
-# CALCVERSE - Session Start Document
+# CRUNCH - Session Start Document
 
 > **Last Updated**: 2025-12-13
 > **Current Phase**: Pre-Development (Planning Complete)
 > **Project Repo**: Not yet created
+> **Project Name**: Crunch
+> **Tagline**: "Crunch the numbers"
 
 ---
 
@@ -99,7 +101,7 @@ Calculator Page:
 ### URL Structure
 
 ```
-calcverse.com/
+crunch.tools/   (or getcrunch.com, crunch.fyi)
 ├── /                           # Homepage with category grid
 ├── /freelance/                 # Category landing
 │   ├── /freelance/tax-calculator
@@ -134,7 +136,7 @@ Each calculator page includes:
 ```html
 <!-- Embed code structure -->
 <iframe
-  src="https://calcverse.com/embed/freelance/tax-calculator?theme=light"
+  src="https://crunch.tools/embed/freelance/tax-calculator?theme=light"
   width="100%"
   height="400"
   frameborder="0"
@@ -212,7 +214,7 @@ Each calculator page includes:
 Once project is created, these will be the key files:
 
 ```
-calcverse/
+crunch/
 ├── src/
 │   ├── components/
 │   │   ├── Calculator.astro      # Base calculator template
@@ -301,9 +303,9 @@ npm run deploy
 ### 2025-12-13 - Initial Planning Session
 - Completed full ideation and research in interstellar HQ
 - Chose Calculator Network as primary project
-- Named project "Calcverse"
+- Named project "Crunch"
 - Created this session-start document
-- Next: Create calcverse repo and begin Phase 1
+- Next: Create crunch repo and begin Phase 1
 
 ---
 

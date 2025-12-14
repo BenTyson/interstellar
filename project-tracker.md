@@ -6,20 +6,20 @@
 
 ## Active Projects
 
-### Calcverse
+### Crunch
 | Field | Value |
 |-------|-------|
 | **Status** | 🟡 Planning Complete |
 | **Phase** | Pre-Development |
 | **Repo** | Not yet created |
-| **Session Doc** | [/docs/session-start/CALCVERSE.md](./docs/session-start/CALCVERSE.md) |
-| **Description** | Network of 20-50 niche calculators for long-tail SEO |
+| **Session Doc** | [/docs/session-start/CRUNCH.md](./docs/session-start/CRUNCH.md) |
+| **Description** | Network of 20-50 niche calculators - "Crunch the numbers" |
 | **Revenue Model** | Ads + Affiliates + Lead Gen |
 | **Target Revenue** | $1-5K/month |
 | **Passivity Score** | 10/10 |
 | **Last Updated** | 2025-12-13 |
 
-**Next Action**: Create calcverse repo and begin Phase 1 (Foundation)
+**Next Action**: Create crunch repo and begin Phase 1 (Foundation)
 
 ---
 
@@ -38,7 +38,26 @@
 | **Passivity Score** | 9/10 |
 | **Last Updated** | 2025-12-13 |
 
-**Next Action**: Begin after Calcverse MVP ships
+**Next Action**: Begin after Crunch MVP ships
+
+---
+
+### HueGo
+| Field | Value |
+|-------|-------|
+| **Status** | ⏸️ Queued |
+| **Phase** | Waiting for Crunch MVP |
+| **Repo** | Not yet created |
+| **Session Doc** | [/docs/session-start/HUEGO.md](./docs/session-start/HUEGO.md) |
+| **Description** | Modular color palette generator - "Ready, set, HueGo" |
+| **Revenue Model** | Ads + Premium subscription ($3-5/mo) |
+| **Target Revenue** | $1-5K/month |
+| **Passivity Score** | 9/10 |
+| **Last Updated** | 2025-12-13 |
+
+**Key Feature**: 4 UI modes (Immersive, Context, Mood, Playground) that adapt to how designers work
+
+**Next Action**: Begin after Sift or in parallel
 
 ---
 
@@ -69,8 +88,9 @@
 
 | Project | Monthly Revenue | Status |
 |---------|-----------------|--------|
-| Calcverse | $0 | Not launched |
+| Crunch | $0 | Not launched |
 | Sift | $0 | Not launched |
+| HueGo | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -82,9 +102,10 @@
 ### 2025-12-13
 - Created Interstellar HQ structure
 - Completed ideation and research for passive income projects
-- Selected Calcverse as primary project
-- Queued AI-Deals as secondary project
-- Created comprehensive session-start documents for both
+- Selected Crunch (calculator network) as primary project
+- Queued Sift (AI tool deals) as secondary project
+- Added HueGo (color palette generator) with modular 4-mode UI
+- Created comprehensive session-start documents for all three
 - Created playbooks (tech-stack, monetization, SEO)
 
 ---
@@ -92,8 +113,9 @@
 ## Quick Links
 
 **Session Start Docs:**
-- [CALCVERSE.md](./docs/session-start/CALCVERSE.md)
+- [CRUNCH.md](./docs/session-start/CRUNCH.md)
 - [SIFT.md](./docs/session-start/SIFT.md)
+- [HUEGO.md](./docs/session-start/HUEGO.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**

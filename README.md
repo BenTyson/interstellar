@@ -19,11 +19,11 @@ Each actual project lives in its own repo with a comprehensive context document.
 
 ## Quick Start for New Sessions
 
-### Starting Work on Calcverse
+### Starting Work on Crunch
 ```
-1. Read /docs/session-start/CALCVERSE.md
+1. Read /docs/session-start/CRUNCH.md
 2. Check /project-tracker.md for current status
-3. Navigate to calcverse repo
+3. Navigate to crunch repo
 4. Begin work per the implementation plan
 ```
 
@@ -32,6 +32,14 @@ Each actual project lives in its own repo with a comprehensive context document.
 1. Read /docs/session-start/SIFT.md
 2. Check /project-tracker.md for current status
 3. Navigate to sift repo
+4. Begin work per the implementation plan
+```
+
+### Starting Work on HueGo
+```
+1. Read /docs/session-start/HUEGO.md
+2. Check /project-tracker.md for current status
+3. Navigate to huego repo
 4. Begin work per the implementation plan
 ```
 
@@ -71,8 +79,9 @@ interstellar/
 
 | Project | Status | Description | Revenue Target |
 |---------|--------|-------------|----------------|
-| **Calcverse** | 🟡 Ready | Niche calculator network | $1-5K/mo |
+| **Crunch** | 🟡 Ready | Niche calculator network - "Crunch the numbers" | $1-5K/mo |
 | **Sift** | ⏸️ Queued | AI tool deals aggregator - "Sift through the noise" | $2-8K/mo |
+| **HueGo** | ⏸️ Queued | Modular color palette generator - "Ready, set, HueGo" | $1-5K/mo |
 
 See [project-tracker.md](./project-tracker.md) for detailed status.
 
