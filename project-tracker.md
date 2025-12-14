@@ -80,6 +80,25 @@
 
 ---
 
+### Clutch
+| Field | Value |
+|-------|-------|
+| **Status** | ⏸️ Queued |
+| **Phase** | Waiting for other projects |
+| **Repo** | Not yet created |
+| **Session Doc** | [/docs/session-start/CLUTCH.md](./docs/session-start/CLUTCH.md) |
+| **Description** | Developer utility network - "When you're in a clutch" |
+| **Revenue Model** | Display ads (AdSense → Mediavine) |
+| **Target Revenue** | $500-2K/month |
+| **Passivity Score** | 10/10 |
+| **Last Updated** | 2025-12-14 |
+
+**Key Feature**: 50+ client-side tools (converters, formatters, generators) targeting developer SEO keywords
+
+**Next Action**: Begin after other projects or in parallel
+
+---
+
 ## Ideas Pipeline
 
 | Idea | Status | Notes |
@@ -111,6 +130,7 @@
 | Sift | $0 | Not launched |
 | HueGo | $0 | Not launched |
 | Simmer | $0 | Not launched |
+| Clutch | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -118,6 +138,10 @@
 ---
 
 ## Session History
+
+### 2025-12-14
+- Added Clutch (developer utility network) - 50+ client-side tools targeting developer SEO
+- Now 5 projects in portfolio with comprehensive session-start docs
 
 ### 2025-12-13
 - Created Interstellar HQ structure
@@ -138,6 +162,7 @@
 - [SIFT.md](./docs/session-start/SIFT.md)
 - [HUEGO.md](./docs/session-start/HUEGO.md)
 - [SIMMER.md](./docs/session-start/SIMMER.md)
+- [CLUTCH.md](./docs/session-start/CLUTCH.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**
