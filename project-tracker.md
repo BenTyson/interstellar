@@ -99,6 +99,25 @@
 
 ---
 
+### Good Game
+| Field | Value |
+|-------|-------|
+| **Status** | ⏸️ Queued |
+| **Phase** | Waiting for other projects |
+| **Repo** | Not yet created |
+| **Session Doc** | [/docs/session-start/GOODGAME.md](./docs/session-start/GOODGAME.md) |
+| **Description** | Board game directory & tools hub - "GG" |
+| **Revenue Model** | Display ads + game affiliate links (Amazon) |
+| **Target Revenue** | $500-2K/month |
+| **Passivity Score** | 9/10 |
+| **Last Updated** | 2025-12-14 |
+
+**Key Feature**: Beautiful UX alternative to BGG with rules summaries, printable score sheets, setup guides, and quick reference cards
+
+**Next Action**: Begin after other projects or in parallel
+
+---
+
 ## Ideas Pipeline
 
 | Idea | Status | Notes |
@@ -131,6 +150,7 @@
 | HueGo | $0 | Not launched |
 | Simmer | $0 | Not launched |
 | Clutch | $0 | Not launched |
+| Good Game | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -141,7 +161,8 @@
 
 ### 2025-12-14
 - Added Clutch (developer utility network) - 50+ client-side tools targeting developer SEO
-- Now 5 projects in portfolio with comprehensive session-start docs
+- Added Good Game (board game directory & tools) - rules, score sheets, reference cards with great UX
+- Now 6 projects in portfolio with comprehensive session-start docs
 
 ### 2025-12-13
 - Created Interstellar HQ structure
@@ -163,6 +184,7 @@
 - [HUEGO.md](./docs/session-start/HUEGO.md)
 - [SIMMER.md](./docs/session-start/SIMMER.md)
 - [CLUTCH.md](./docs/session-start/CLUTCH.md)
+- [GOODGAME.md](./docs/session-start/GOODGAME.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**

@@ -59,6 +59,14 @@ Each actual project lives in its own repo with a comprehensive context document.
 4. Begin work per the implementation plan
 ```
 
+### Starting Work on Good Game
+```
+1. Read /docs/session-start/GOODGAME.md
+2. Check /project-tracker.md for current status
+3. Navigate to goodgame repo
+4. Begin work per the implementation plan
+```
+
 ### Brainstorming New Ideas
 ```
 1. Check /docs/ideas/raw/ for captured ideas
@@ -100,6 +108,7 @@ interstellar/
 | **HueGo** | ⏸️ Queued | Modular color palette generator - "Ready, set, HueGo" | $1-5K/mo |
 | **Simmer** | ⏸️ Queued | Clean recipe aggregator - "Let it simmer" | $2-5K/mo |
 | **Clutch** | ⏸️ Queued | Developer utility network - "When you're in a clutch" | $500-2K/mo |
+| **Good Game** | ⏸️ Queued | Board game directory & tools hub - "GG" | $500-2K/mo |
 
 See [project-tracker.md](./project-tracker.md) for detailed status.
 
