@@ -67,6 +67,14 @@ Each actual project lives in its own repo with a comprehensive context document.
 4. Begin work per the implementation plan
 ```
 
+### Starting Work on TradeCalc
+```
+1. Read /docs/session-start/TRADECALC.md
+2. Check /project-tracker.md for current status
+3. Navigate to tradecalc repo
+4. Begin work per the implementation plan
+```
+
 ### Brainstorming New Ideas
 ```
 1. Check /docs/ideas/raw/ for captured ideas
@@ -109,6 +117,7 @@ interstellar/
 | **Simmer** | ⏸️ Queued | Clean recipe aggregator - "Let it simmer" | $2-5K/mo |
 | **Clutch** | ⏸️ Queued | Developer utility network - "When you're in a clutch" | $500-2K/mo |
 | **Good Game** | ⏸️ Queued | Board game directory & tools hub - "GG" | $500-2K/mo |
+| **TradeCalc** | ⏸️ Queued | Construction & trades calculators - "The contractor's calculator" | $2-8K/mo |
 
 See [project-tracker.md](./project-tracker.md) for detailed status.
 

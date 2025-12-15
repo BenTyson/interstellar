@@ -118,6 +118,25 @@
 
 ---
 
+### TradeCalc
+| Field | Value |
+|-------|-------|
+| **Status** | ⏸️ Queued |
+| **Phase** | Waiting for other projects |
+| **Repo** | Not yet created |
+| **Session Doc** | [/docs/session-start/TRADECALC.md](./docs/session-start/TRADECALC.md) |
+| **Description** | Construction & trades calculator network - "The contractor's calculator" |
+| **Revenue Model** | Display ads (premium rates) + affiliate (Home Depot, Lowe's) + lead gen |
+| **Target Revenue** | $2-8K/month |
+| **Passivity Score** | 10/10 |
+| **Last Updated** | 2025-12-14 |
+
+**Key Feature**: 50+ calculators for concrete, roofing, electrical, HVAC, landscaping - massive search volume, underserved market, premium ad rates
+
+**Next Action**: Begin after other projects or in parallel
+
+---
+
 ## Ideas Pipeline
 
 | Idea | Status | Notes |
@@ -151,6 +170,7 @@
 | Simmer | $0 | Not launched |
 | Clutch | $0 | Not launched |
 | Good Game | $0 | Not launched |
+| TradeCalc | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -162,7 +182,8 @@
 ### 2025-12-14
 - Added Clutch (developer utility network) - 50+ client-side tools targeting developer SEO
 - Added Good Game (board game directory & tools) - rules, score sheets, reference cards with great UX
-- Now 6 projects in portfolio with comprehensive session-start docs
+- Added TradeCalc (construction & trades calculators) - massive search volume, premium ad rates, lead gen potential
+- Now 7 projects in portfolio with comprehensive session-start docs
 
 ### 2025-12-13
 - Created Interstellar HQ structure
@@ -185,6 +206,7 @@
 - [SIMMER.md](./docs/session-start/SIMMER.md)
 - [CLUTCH.md](./docs/session-start/CLUTCH.md)
 - [GOODGAME.md](./docs/session-start/GOODGAME.md)
+- [TRADECALC.md](./docs/session-start/TRADECALC.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**
