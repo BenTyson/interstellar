@@ -175,6 +175,25 @@
 
 ---
 
+### Summit58
+| Field | Value |
+|-------|-------|
+| **Status** | ⏸️ Queued |
+| **Phase** | Waiting for other projects |
+| **Repo** | Not yet created |
+| **Session Doc** | [/docs/session-start/SUMMIT58.md](./docs/session-start/SUMMIT58.md) |
+| **Description** | Modern guide to Colorado's 58 fourteeners - "The modern 14ers guide" |
+| **Revenue Model** | Affiliate + Printables + Membership (minimal ads) |
+| **Target Revenue** | $2-5K/month |
+| **Passivity Score** | 7/10 |
+| **Last Updated** | 2025-12-15 |
+
+**Key Feature**: Mobile-first, offline-capable PWA with user conditions reports, peak tracking, and printable route cards. SvelteKit + Supabase + Railway. Replaces the terrible 14ers.com experience.
+
+**Next Action**: Begin after other projects or in parallel
+
+---
+
 ## Ideas Pipeline
 
 | Idea | Status | Notes |
@@ -211,6 +230,7 @@
 | TradeCalc | $0 | Not launched |
 | CraftCalc | $0 | Not launched |
 | GearedUp | $0 | Not launched |
+| Summit58 | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -220,9 +240,10 @@
 ## Session History
 
 ### 2025-12-15
+- Added Summit58 (Colorado 14ers guide) - mobile-first, SvelteKit + Supabase + Railway, replaces 14ers.com
 - Added GearedUp (curated hobby gear recommendations) - "Best X for Y" affiliate content for hobbyists
 - Added CraftCalc (craft & DIY calculators) - yarn, quilting, woodworking, cross stitch, resin, candles, soap making
-- Now 9 projects in portfolio with comprehensive session-start docs
+- Now 10 projects in portfolio with comprehensive session-start docs
 
 ### 2025-12-14
 - Added Clutch (developer utility network) - 50+ client-side tools targeting developer SEO
@@ -254,6 +275,7 @@
 - [TRADECALC.md](./docs/session-start/TRADECALC.md)
 - [CRAFTCALC.md](./docs/session-start/CRAFTCALC.md)
 - [GEAREDUP.md](./docs/session-start/GEAREDUP.md)
+- [SUMMIT58.md](./docs/session-start/SUMMIT58.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**
