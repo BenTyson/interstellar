@@ -6,6 +6,26 @@
 
 ## Active Projects
 
+### QR Forge
+| Field | Value |
+|-------|-------|
+| **Status** | 🟢 In Development |
+| **Phase** | Near Complete |
+| **Repo** | [github.com/BenTyson/qrforge](https://github.com/BenTyson/qrforge) |
+| **Live URL** | Not yet deployed |
+| **Session Doc** | None (started pre-Interstellar) |
+| **Description** | Premium QR code generator - "Forge your codes" |
+| **Revenue Model** | Freemium + Subscription |
+| **Target Revenue** | $500-2K/month |
+| **Passivity Score** | 8/10 |
+| **Last Updated** | 2025-12-16 |
+
+**Key Feature**: 7 QR types (URL, text, WiFi, vCard, email, phone, SMS), customizable styling, PNG/SVG export. Next.js + Tailwind + shadcn/ui.
+
+**Next Action**: Complete auth/payments, deploy
+
+---
+
 ### Crunch
 | Field | Value |
 |-------|-------|
@@ -226,6 +246,7 @@
 
 | Project | Monthly Revenue | Status |
 |---------|-----------------|--------|
+| QR Forge | $0 | Not launched |
 | Crunch | $0 | Not launched |
 | Sift | $0 | Not launched |
 | HueGo | $0 | Not launched |
@@ -245,9 +266,11 @@
 ## Session History
 
 ### 2025-12-16
+- Added QR Forge (pre-Interstellar project, near complete)
 - Added GitHub repos and Railway URLs for active projects
-- Moved 5 projects to Active/In Development: Crunch, Sift, HueGo, Simmer, Good Game
+- Moved 6 projects to Active/In Development: QR Forge, Crunch, Sift, HueGo, Simmer, Good Game
 - Updated project statuses to reflect actual development state
+- Now 11 projects in portfolio
 
 ### 2025-12-15
 - Added Summit58 (Colorado 14ers guide) - mobile-first, SvelteKit + Supabase + Railway, replaces 14ers.com

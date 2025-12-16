@@ -135,12 +135,13 @@ interstellar/
 
 | Project | Status | Description | Revenue Target |
 |---------|--------|-------------|----------------|
-| **Crunch** | 🟡 Ready | Niche calculator network - "Crunch the numbers" | $1-5K/mo |
-| **Sift** | ⏸️ Queued | AI tool deals aggregator - "Sift through the noise" | $2-8K/mo |
-| **HueGo** | ⏸️ Queued | Modular color palette generator - "Ready, set, HueGo" | $1-5K/mo |
-| **Simmer** | ⏸️ Queued | Clean recipe aggregator - "Let it simmer" | $2-5K/mo |
+| **QR Forge** | 🟢 In Dev | Premium QR code generator - "Forge your codes" | $500-2K/mo |
+| **Crunch** | 🟢 In Dev | Niche calculator network - "Crunch the numbers" | $1-5K/mo |
+| **Sift** | 🟢 In Dev | AI tool deals aggregator - "Sift through the noise" | $2-8K/mo |
+| **HueGo** | 🟢 In Dev | Modular color palette generator - "Ready, set, HueGo" | $1-5K/mo |
+| **Simmer** | 🟢 In Dev | Clean recipe aggregator - "Let it simmer" | $2-5K/mo |
+| **Good Game** | 🟢 In Dev | Board game directory & tools hub - "GG" | $500-2K/mo |
 | **Clutch** | ⏸️ Queued | Developer utility network - "When you're in a clutch" | $500-2K/mo |
-| **Good Game** | ⏸️ Queued | Board game directory & tools hub - "GG" | $500-2K/mo |
 | **TradeCalc** | ⏸️ Queued | Construction & trades calculators - "The contractor's calculator" | $2-8K/mo |
 | **CraftCalc** | ⏸️ Queued | Craft & DIY calculators - "Calculate your craft" | $500-2K/mo |
 | **GearedUp** | ⏸️ Queued | Curated hobby gear recommendations - "Gear up for your hobby" | $1-3K/mo |
