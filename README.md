@@ -83,6 +83,14 @@ Each actual project lives in its own repo with a comprehensive context document.
 4. Begin work per the implementation plan
 ```
 
+### Starting Work on GearedUp
+```
+1. Read /docs/session-start/GEAREDUP.md
+2. Check /project-tracker.md for current status
+3. Navigate to gearedup repo
+4. Begin work per the implementation plan
+```
+
 ### Brainstorming New Ideas
 ```
 1. Check /docs/ideas/raw/ for captured ideas
@@ -127,6 +135,7 @@ interstellar/
 | **Good Game** | ⏸️ Queued | Board game directory & tools hub - "GG" | $500-2K/mo |
 | **TradeCalc** | ⏸️ Queued | Construction & trades calculators - "The contractor's calculator" | $2-8K/mo |
 | **CraftCalc** | ⏸️ Queued | Craft & DIY calculators - "Calculate your craft" | $500-2K/mo |
+| **GearedUp** | ⏸️ Queued | Curated hobby gear recommendations - "Gear up for your hobby" | $1-3K/mo |
 
 See [project-tracker.md](./project-tracker.md) for detailed status.
 

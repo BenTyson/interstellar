@@ -156,6 +156,25 @@
 
 ---
 
+### GearedUp
+| Field | Value |
+|-------|-------|
+| **Status** | ⏸️ Queued |
+| **Phase** | Waiting for other projects |
+| **Repo** | Not yet created |
+| **Session Doc** | [/docs/session-start/GEAREDUP.md](./docs/session-start/GEAREDUP.md) |
+| **Description** | Curated hobby gear recommendations - "Gear up for your hobby" |
+| **Revenue Model** | Affiliate links (Amazon, specialty retailers) |
+| **Target Revenue** | $1-3K/month |
+| **Passivity Score** | 9/10 |
+| **Last Updated** | 2025-12-15 |
+
+**Key Feature**: "Best X for Y" pages targeting hobbyists - quilting, board gaming, miniatures, knitting, woodworking. Low competition, high-intent traffic, evergreen content.
+
+**Next Action**: Begin after other projects or in parallel
+
+---
+
 ## Ideas Pipeline
 
 | Idea | Status | Notes |
@@ -191,6 +210,7 @@
 | Good Game | $0 | Not launched |
 | TradeCalc | $0 | Not launched |
 | CraftCalc | $0 | Not launched |
+| GearedUp | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -200,8 +220,9 @@
 ## Session History
 
 ### 2025-12-15
+- Added GearedUp (curated hobby gear recommendations) - "Best X for Y" affiliate content for hobbyists
 - Added CraftCalc (craft & DIY calculators) - yarn, quilting, woodworking, cross stitch, resin, candles, soap making
-- Now 8 projects in portfolio with comprehensive session-start docs
+- Now 9 projects in portfolio with comprehensive session-start docs
 
 ### 2025-12-14
 - Added Clutch (developer utility network) - 50+ client-side tools targeting developer SEO
@@ -232,6 +253,7 @@
 - [GOODGAME.md](./docs/session-start/GOODGAME.md)
 - [TRADECALC.md](./docs/session-start/TRADECALC.md)
 - [CRAFTCALC.md](./docs/session-start/CRAFTCALC.md)
+- [GEAREDUP.md](./docs/session-start/GEAREDUP.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**
