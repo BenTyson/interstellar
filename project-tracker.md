@@ -9,76 +9,100 @@
 ### Crunch
 | Field | Value |
 |-------|-------|
-| **Status** | 🟡 Planning Complete |
-| **Phase** | Pre-Development |
-| **Repo** | Not yet created |
+| **Status** | 🟢 In Development |
+| **Phase** | Development |
+| **Repo** | [github.com/BenTyson/calcverse](https://github.com/BenTyson/calcverse) |
+| **Live URL** | [calcverse-production.up.railway.app](https://calcverse-production.up.railway.app) |
 | **Session Doc** | [/docs/session-start/CRUNCH.md](./docs/session-start/CRUNCH.md) |
 | **Description** | Network of 20-50 niche calculators - "Crunch the numbers" |
 | **Revenue Model** | Ads + Affiliates + Lead Gen |
 | **Target Revenue** | $1-5K/month |
 | **Passivity Score** | 10/10 |
-| **Last Updated** | 2025-12-13 |
+| **Last Updated** | 2025-12-16 |
 
-**Next Action**: Create crunch repo and begin Phase 1 (Foundation)
+**Next Action**: Continue development
 
 ---
-
-## Queued Projects
 
 ### Sift
 | Field | Value |
 |-------|-------|
-| **Status** | ⏸️ Queued |
-| **Phase** | Waiting for Calcverse MVP |
-| **Repo** | Not yet created |
+| **Status** | 🟢 In Development |
+| **Phase** | Development |
+| **Repo** | [github.com/BenTyson/sift](https://github.com/BenTyson/sift) |
+| **Live URL** | [sift-production.up.railway.app](https://sift-production.up.railway.app) |
 | **Session Doc** | [/docs/session-start/SIFT.md](./docs/session-start/SIFT.md) |
 | **Description** | AI tool directory with deal aggregation - "Sift through the noise" |
 | **Revenue Model** | Affiliates + Featured Listings + Newsletter |
 | **Target Revenue** | $2-8K/month |
 | **Passivity Score** | 9/10 |
-| **Last Updated** | 2025-12-13 |
+| **Last Updated** | 2025-12-16 |
 
-**Next Action**: Begin after Crunch MVP ships
+**Next Action**: Continue development
 
 ---
 
 ### HueGo
 | Field | Value |
 |-------|-------|
-| **Status** | ⏸️ Queued |
-| **Phase** | Waiting for Crunch MVP |
-| **Repo** | Not yet created |
+| **Status** | 🟢 In Development |
+| **Phase** | Development |
+| **Repo** | [github.com/BenTyson/huego](https://github.com/BenTyson/huego) |
+| **Live URL** | Not yet deployed |
 | **Session Doc** | [/docs/session-start/HUEGO.md](./docs/session-start/HUEGO.md) |
 | **Description** | Modular color palette generator - "Ready, set, HueGo" |
 | **Revenue Model** | Ads + Premium subscription ($3-5/mo) |
 | **Target Revenue** | $1-5K/month |
 | **Passivity Score** | 9/10 |
-| **Last Updated** | 2025-12-13 |
+| **Last Updated** | 2025-12-16 |
 
 **Key Feature**: 4 UI modes (Immersive, Context, Mood, Playground) that adapt to how designers work
 
-**Next Action**: Begin after Sift or in parallel
+**Next Action**: Continue development
 
 ---
 
 ### Simmer
 | Field | Value |
 |-------|-------|
-| **Status** | ⏸️ Queued |
-| **Phase** | Waiting for other projects |
-| **Repo** | Not yet created |
+| **Status** | 🟢 In Development |
+| **Phase** | Development |
+| **Repo** | [github.com/BenTyson/simmer](https://github.com/BenTyson/simmer) |
+| **Live URL** | Not yet deployed |
 | **Session Doc** | [/docs/session-start/SIMMER.md](./docs/session-start/SIMMER.md) |
 | **Description** | Clean recipe aggregator - "Let it simmer" |
 | **Revenue Model** | Affiliate links (Instacart, Amazon) + minimal ads |
 | **Target Revenue** | $2-5K/month |
 | **Passivity Score** | 8/10 |
-| **Last Updated** | 2025-12-13 |
+| **Last Updated** | 2025-12-16 |
 
 **Key Feature**: Strips recipe site bloat, adds shopping lists, scaling, unit conversion via schema.org structured data
 
-**Next Action**: Begin after other projects or in parallel
+**Next Action**: Continue development
 
 ---
+
+### Good Game
+| Field | Value |
+|-------|-------|
+| **Status** | 🟢 In Development |
+| **Phase** | Development |
+| **Repo** | [github.com/BenTyson/goodgame](https://github.com/BenTyson/goodgame) |
+| **Live URL** | Not yet deployed |
+| **Session Doc** | [/docs/session-start/GOODGAME.md](./docs/session-start/GOODGAME.md) |
+| **Description** | Board game directory & tools hub - "GG" |
+| **Revenue Model** | Display ads + game affiliate links (Amazon) |
+| **Target Revenue** | $500-2K/month |
+| **Passivity Score** | 9/10 |
+| **Last Updated** | 2025-12-16 |
+
+**Key Feature**: Beautiful UX alternative to BGG with rules summaries, printable score sheets, setup guides, and quick reference cards
+
+**Next Action**: Continue development
+
+---
+
+## Queued Projects
 
 ### Clutch
 | Field | Value |
@@ -94,25 +118,6 @@
 | **Last Updated** | 2025-12-14 |
 
 **Key Feature**: 50+ client-side tools (converters, formatters, generators) targeting developer SEO keywords
-
-**Next Action**: Begin after other projects or in parallel
-
----
-
-### Good Game
-| Field | Value |
-|-------|-------|
-| **Status** | ⏸️ Queued |
-| **Phase** | Waiting for other projects |
-| **Repo** | Not yet created |
-| **Session Doc** | [/docs/session-start/GOODGAME.md](./docs/session-start/GOODGAME.md) |
-| **Description** | Board game directory & tools hub - "GG" |
-| **Revenue Model** | Display ads + game affiliate links (Amazon) |
-| **Target Revenue** | $500-2K/month |
-| **Passivity Score** | 9/10 |
-| **Last Updated** | 2025-12-14 |
-
-**Key Feature**: Beautiful UX alternative to BGG with rules summaries, printable score sheets, setup guides, and quick reference cards
 
 **Next Action**: Begin after other projects or in parallel
 
@@ -238,6 +243,11 @@
 ---
 
 ## Session History
+
+### 2025-12-16
+- Added GitHub repos and Railway URLs for active projects
+- Moved 5 projects to Active/In Development: Crunch, Sift, HueGo, Simmer, Good Game
+- Updated project statuses to reflect actual development state
 
 ### 2025-12-15
 - Added Summit58 (Colorado 14ers guide) - mobile-first, SvelteKit + Supabase + Railway, replaces 14ers.com
