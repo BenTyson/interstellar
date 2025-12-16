@@ -77,11 +77,14 @@ GearedUp is a curated recommendation site targeting hobbyists searching for gear
 
 | Category | Example Pages | Affiliate Partners |
 |----------|---------------|-------------------|
+| **Mountaineering & Hiking** | Ice axes, crampons, helmets, trekking poles, backpacks | REI, Backcountry, Amazon |
 | **Woodworking** | Chisels, hand planes, carving knives, clamps | Amazon, Rockler, Woodcraft |
 | **Resin Crafts** | Resin printers, UV resins, molds, pressure pots | Amazon, Elegoo |
 | **Drawing & Illustration** | Pencils, sketchbooks, markers, drawing tablets | Amazon, Blick Art |
 | **Calligraphy & Journaling** | Pens, inks, notebooks, wax seals | Amazon, JetPens, Goulet Pens |
 | **Tabletop RPG** | Dice, dice trays, DM screens, battle mats | Amazon, Die Hard Dice |
+
+**Note:** Mountaineering & Hiking is a strategic category that syncs with Summit58. See Section 16 for integration details.
 
 ### Tier 3: Future Categories
 
@@ -483,6 +486,14 @@ Only maintenance: Periodically check that products are still available and price
 
 ## 14. Session Log
 
+### 2025-12-15 - Summit58 Integration Added
+- Added Mountaineering & Hiking as Tier 2 category
+- Created Section 16: Summit58 Integration with full synergy plan
+- Defined 28 mountaineering gear pages for future expansion
+- Mapped cross-linking strategy between sites
+- Updated ecosystem diagram to show GearedUp as central hub
+- Documented phased integration approach (simple links → embedded components → shared data)
+
 ### 2025-12-15 - Project Created
 - Researched curated list / "best X for Y" model
 - Evaluated verticals: chose Niche Hobbies for low competition + passionate buyers
@@ -532,6 +543,219 @@ npm run preview  # Preview production build
 - Astro Docs: https://docs.astro.build
 - Amazon Associates: https://affiliate-program.amazon.com
 - Plausible: https://plausible.io
+
+---
+
+## 16. Summit58 Integration
+
+GearedUp serves as the gear recommendation engine for the Summit58 ecosystem. This creates cross-linking opportunities and shared audience benefits.
+
+### Mountaineering & Hiking Category
+
+This category is specifically designed to support Summit58 users researching gear for Colorado 14ers.
+
+#### Priority Pages (Summit58 Synergy)
+
+| Page | Summit58 Link Context |
+|------|----------------------|
+| **Best Ice Axe for Beginners** | Class 3+ routes, spring/early summer |
+| **Best Crampons for 14ers** | Snow routes, Longs Peak, Capitol |
+| **Best Hiking Boots for 14ers** | General gear page, all peaks |
+| **Best Trekking Poles for Scrambling** | Class 2-3 routes |
+| **Best Climbing Helmet for Mountaineering** | Class 3+ routes, rockfall zones |
+| **Best Daypack for 14ers** | General gear page |
+| **Best Microspikes for Hiking** | Spring conditions, snow travel |
+| **Best Gaiters for Scree** | Loose rock routes |
+| **Best Layers for Alpine Starts** | All peaks, weather page |
+| **Best Headlamp for Mountain Climbing** | Alpine starts, long routes |
+
+#### Cross-Linking Strategy
+
+```
+Summit58 Route Page                    GearedUp Page
+─────────────────────────────────────────────────────────────
+Longs Peak (Class 3)          →        Best Helmet for Mountaineering
+  "Helmets recommended"                Best Ice Axe for Beginners
+
+Capitol Peak (Class 4)        →        Best Climbing Helmet
+  "Technical gear required"            Best Crampons for 14ers
+
+Quandary Peak (Class 1)       →        Best Hiking Boots for 14ers
+  "Gear checklist"                     Best Trekking Poles
+
+Any peak conditions page      →        Best Microspikes for Hiking
+  "Snow reported"                      Best Gaiters for Scree
+```
+
+#### URL Pattern for Mountaineering
+
+```
+gearedup.com/
+├── /mountaineering/                    # Category hub
+│   ├── /best-ice-axe-for-beginners/
+│   ├── /best-crampons-for-14ers/
+│   ├── /best-helmet-for-mountaineering/
+│   ├── /best-trekking-poles-for-scrambling/
+│   ├── /best-hiking-boots-for-14ers/
+│   ├── /best-daypack-for-14ers/
+│   ├── /best-microspikes-for-hiking/
+│   └── ...
+├── /gifts-for-hikers/                  # Gift guide
+└── /gifts-for-mountaineers/            # Gift guide
+```
+
+### Integration Implementation
+
+#### Phase 1: Foundation (No Integration)
+- Build GearedUp MVP with Quilting + Board Gaming
+- No mountaineering content yet
+- Summit58 doesn't exist yet
+
+#### Phase 2: Parallel Development
+- When Summit58 launches, add Mountaineering category to GearedUp
+- Start with 5 high-value gear pages
+- Manual cross-links between sites
+
+#### Phase 3: Deep Integration
+- Summit58 gear checklists link directly to GearedUp recommendations
+- GearedUp mountaineering pages reference Summit58 for route info
+- Shared affiliate tracking (if using same Amazon Associates account)
+- Consider embedded GearedUp components on Summit58
+
+### Technical Integration Options
+
+#### Option A: Simple Cross-Linking (Recommended for MVP)
+```html
+<!-- On Summit58 route page -->
+<a href="https://gearedup.com/best-helmet-for-mountaineering/">
+  Helmet recommendations →
+</a>
+
+<!-- On GearedUp mountaineering page -->
+<p>Planning a 14er? Check <a href="https://summit58.co">Summit58</a>
+for routes and conditions.</p>
+```
+
+#### Option B: Embedded Components (Future)
+```html
+<!-- Summit58 could embed GearedUp gear cards -->
+<iframe src="https://gearedup.com/embed/best-helmet-for-mountaineering" />
+
+<!-- Or use shared component library -->
+<GearRecommendation product="helmet" context="class-3" />
+```
+
+#### Option C: Shared Data Layer (Future)
+- Both sites pull from same product database
+- Supabase shared schema for gear data
+- Real-time price/availability updates
+
+**Recommendation:** Start with Option A. Simple, works immediately, no technical debt. Evaluate B/C after both sites have traction.
+
+### Affiliate Synergy
+
+Both sites can use the same affiliate accounts:
+
+| Program | GearedUp | Summit58 | Shared Benefit |
+|---------|----------|----------|----------------|
+| Amazon Associates | Primary | Gear links | Same account, combined volume |
+| REI Affiliate | Mountaineering | Gear links | Higher tier faster |
+| Backcountry | Mountaineering | Gear links | Combined volume |
+
+**Important:** Use consistent affiliate tags or sub-tags to track which site drives conversions.
+
+### Content Coordination
+
+| Content Type | Lives On | Links To |
+|--------------|----------|----------|
+| "Best X for Y" gear reviews | GearedUp | Summit58 (context) |
+| Route-specific gear lists | Summit58 | GearedUp (products) |
+| Seasonal gear guides | GearedUp | Summit58 (conditions) |
+| Peak gear checklists | Summit58 | GearedUp (each item) |
+
+### Mountaineering Pages - Full List
+
+#### Essential Gear (10 pages)
+1. Best Ice Axe for Beginners
+2. Best Crampons for 14ers
+3. Best Climbing Helmet for Mountaineering
+4. Best Hiking Boots for 14ers
+5. Best Trekking Poles for Scrambling
+6. Best Daypack for 14ers (30-40L)
+7. Best Microspikes for Hiking
+8. Best Gaiters for Scree and Snow
+9. Best Headlamp for Alpine Starts
+10. Best GPS Device for Mountain Navigation
+
+#### Clothing (8 pages)
+1. Best Base Layer for Mountain Climbing
+2. Best Insulated Jacket for 14ers
+3. Best Hardshell Jacket for Alpine Climbing
+4. Best Softshell Pants for Mountaineering
+5. Best Hiking Socks for Long Days
+6. Best Sun Hat for High Altitude
+7. Best Gloves for Scrambling
+8. Best Buff/Neck Gaiter for Mountains
+
+#### Safety & Navigation (5 pages)
+1. Best Emergency Bivy for Day Hikers
+2. Best First Aid Kit for Mountaineering
+3. Best Sunscreen for High Altitude
+4. Best Sunglasses for Snow/Mountains
+5. Best Two-Way Radio for Group Climbs
+
+#### Accessories (5 pages)
+1. Best Water Bottle for Hiking
+2. Best Hydration Bladder for Mountaineering
+3. Best Trekking Pole Tips for Rock
+4. Best Stuff Sacks for Organization
+5. Best Bear Canister for Backcountry
+
+**Total: 28 mountaineering pages** → significant content expansion
+
+---
+
+## 17. Sister Site Ecosystem (Updated)
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    GEAREDUP ECOSYSTEM                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│                    ┌──────────────┐                         │
+│                    │   GearedUp   │ ← Hub site              │
+│                    │ (all hobbies)│                         │
+│                    └──────┬───────┘                         │
+│                           │                                  │
+│         ┌─────────────────┼─────────────────┐               │
+│         │                 │                 │               │
+│         ▼                 ▼                 ▼               │
+│  ┌────────────┐   ┌────────────┐   ┌────────────┐          │
+│  │  Summit58  │   │ Good Game  │   │  CraftCalc │          │
+│  │  (14ers)   │   │  (boards)  │   │  (crafts)  │          │
+│  └────────────┘   └────────────┘   └────────────┘          │
+│         │                 │                 │               │
+│         │                 │                 │               │
+│  Mountaineering    Board Gaming      Quilting/Yarn         │
+│  gear pages        gear pages        gear pages            │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+GearedUp becomes the central gear recommendation hub that powers multiple niche sites:
+
+| Niche Site | GearedUp Category | Link Direction |
+|------------|-------------------|----------------|
+| Summit58 | Mountaineering & Hiking | Bidirectional |
+| Good Game | Board Gaming | Bidirectional |
+| CraftCalc | Quilting, Knitting, Crafts | Bidirectional |
+
+This creates a flywheel:
+1. Niche sites build authority in their vertical
+2. GearedUp aggregates gear expertise across verticals
+3. Cross-links boost SEO for both
+4. Shared audience discovers related sites
+5. Affiliate revenue compounds across network
 
 ---
 
