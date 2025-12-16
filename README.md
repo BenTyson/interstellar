@@ -75,6 +75,14 @@ Each actual project lives in its own repo with a comprehensive context document.
 4. Begin work per the implementation plan
 ```
 
+### Starting Work on CraftCalc
+```
+1. Read /docs/session-start/CRAFTCALC.md
+2. Check /project-tracker.md for current status
+3. Navigate to craftcalc repo
+4. Begin work per the implementation plan
+```
+
 ### Brainstorming New Ideas
 ```
 1. Check /docs/ideas/raw/ for captured ideas
@@ -118,6 +126,7 @@ interstellar/
 | **Clutch** | ⏸️ Queued | Developer utility network - "When you're in a clutch" | $500-2K/mo |
 | **Good Game** | ⏸️ Queued | Board game directory & tools hub - "GG" | $500-2K/mo |
 | **TradeCalc** | ⏸️ Queued | Construction & trades calculators - "The contractor's calculator" | $2-8K/mo |
+| **CraftCalc** | ⏸️ Queued | Craft & DIY calculators - "Calculate your craft" | $500-2K/mo |
 
 See [project-tracker.md](./project-tracker.md) for detailed status.
 

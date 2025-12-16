@@ -137,6 +137,25 @@
 
 ---
 
+### CraftCalc
+| Field | Value |
+|-------|-------|
+| **Status** | ⏸️ Queued |
+| **Phase** | Waiting for other projects |
+| **Repo** | Not yet created |
+| **Session Doc** | [/docs/session-start/CRAFTCALC.md](./docs/session-start/CRAFTCALC.md) |
+| **Description** | Craft & DIY calculator network - "Calculate your craft" |
+| **Revenue Model** | Display ads + affiliate (yarn stores, fabric shops, craft suppliers) |
+| **Target Revenue** | $500-2K/month |
+| **Passivity Score** | 10/10 |
+| **Last Updated** | 2025-12-15 |
+
+**Key Feature**: 50+ calculators for yarn, quilting, woodworking, cross stitch, resin, candles, soap making - passionate hobbyist audience, high affiliate potential
+
+**Next Action**: Begin after other projects or in parallel
+
+---
+
 ## Ideas Pipeline
 
 | Idea | Status | Notes |
@@ -171,6 +190,7 @@
 | Clutch | $0 | Not launched |
 | Good Game | $0 | Not launched |
 | TradeCalc | $0 | Not launched |
+| CraftCalc | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -178,6 +198,10 @@
 ---
 
 ## Session History
+
+### 2025-12-15
+- Added CraftCalc (craft & DIY calculators) - yarn, quilting, woodworking, cross stitch, resin, candles, soap making
+- Now 8 projects in portfolio with comprehensive session-start docs
 
 ### 2025-12-14
 - Added Clutch (developer utility network) - 50+ client-side tools targeting developer SEO
@@ -207,6 +231,7 @@
 - [CLUTCH.md](./docs/session-start/CLUTCH.md)
 - [GOODGAME.md](./docs/session-start/GOODGAME.md)
 - [TRADECALC.md](./docs/session-start/TRADECALC.md)
+- [CRAFTCALC.md](./docs/session-start/CRAFTCALC.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**
