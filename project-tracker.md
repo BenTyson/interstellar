@@ -219,6 +219,25 @@
 
 ---
 
+### PetPicks
+| Field | Value |
+|-------|-------|
+| **Status** | ⏸️ Queued |
+| **Phase** | Waiting for other projects |
+| **Repo** | Not yet created |
+| **Session Doc** | [/docs/session-start/PETPICKS.md](./docs/session-start/PETPICKS.md) |
+| **Description** | Curated pet product recommendations - "Picks for your pet" |
+| **Revenue Model** | Affiliate links (Chewy, Amazon, brand programs) |
+| **Target Revenue** | $2-5K/month |
+| **Passivity Score** | 9/10 |
+| **Last Updated** | 2025-12-16 |
+
+**Key Feature**: "Best X for Y" pages for pet products - dog food, cat litter, beds, toys. Condition/breed-specific recommendations. Chewy affiliate (5-8%) + recurring purchases.
+
+**Next Action**: Begin after other projects or in parallel
+
+---
+
 ## Ideas Pipeline
 
 | Idea | Status | Notes |
@@ -257,6 +276,7 @@
 | CraftCalc | $0 | Not launched |
 | GearedUp | $0 | Not launched |
 | Summit58 | $0 | Not launched |
+| PetPicks | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -266,11 +286,12 @@
 ## Session History
 
 ### 2025-12-16
+- Added PetPicks (curated pet product recommendations) - dog food, cat litter, beds, toys with Chewy affiliate
 - Added QR Forge (pre-Interstellar project, near complete)
 - Added GitHub repos and Railway URLs for active projects
 - Moved 6 projects to Active/In Development: QR Forge, Crunch, Sift, HueGo, Simmer, Good Game
 - Updated project statuses to reflect actual development state
-- Now 11 projects in portfolio
+- Now 12 projects in portfolio
 
 ### 2025-12-15
 - Added Summit58 (Colorado 14ers guide) - mobile-first, SvelteKit + Supabase + Railway, replaces 14ers.com
@@ -309,6 +330,7 @@
 - [CRAFTCALC.md](./docs/session-start/CRAFTCALC.md)
 - [GEAREDUP.md](./docs/session-start/GEAREDUP.md)
 - [SUMMIT58.md](./docs/session-start/SUMMIT58.md)
+- [PETPICKS.md](./docs/session-start/PETPICKS.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**
