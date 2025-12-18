@@ -147,6 +147,7 @@ interstellar/
 | **GearedUp** | ⏸️ Queued | Curated hobby gear recommendations - "Gear up for your hobby" | $1-3K/mo |
 | **Summit58** | ⏸️ Queued | Modern guide to Colorado's 14ers - "The modern 14ers guide" | $2-5K/mo |
 | **PetPicks** | ⏸️ Queued | Curated pet product recommendations - "Picks for your pet" | $2-5K/mo |
+| **FarmCalc** | ⏸️ Queued | Agriculture & farming calculators - "The farmer's calculator" | $2-5K/mo |
 
 See [project-tracker.md](./project-tracker.md) for detailed status.
 

@@ -238,6 +238,25 @@
 
 ---
 
+### FarmCalc
+| Field | Value |
+|-------|-------|
+| **Status** | ⏸️ Queued |
+| **Phase** | Waiting for other projects |
+| **Repo** | Not yet created |
+| **Session Doc** | [/docs/session-start/FARMCALC.md](./docs/session-start/FARMCALC.md) |
+| **Description** | Agriculture & farming calculator network - "The farmer's calculator" |
+| **Revenue Model** | Display ads (premium CPMs) + Affiliate (Tractor Supply) |
+| **Target Revenue** | $2-5K/month |
+| **Passivity Score** | 10/10 |
+| **Last Updated** | 2025-12-16 |
+
+**Key Feature**: 50+ calculators for livestock, crops, fertilizer, fencing, hay, equipment. Underserved market, premium ad rates ($15-30 CPM), formulas don't change.
+
+**Next Action**: Begin after other projects or in parallel
+
+---
+
 ## Ideas Pipeline
 
 | Idea | Status | Notes |
@@ -277,6 +296,7 @@
 | GearedUp | $0 | Not launched |
 | Summit58 | $0 | Not launched |
 | PetPicks | $0 | Not launched |
+| FarmCalc | $0 | Not launched |
 | **Total** | **$0** | |
 
 *Update this section when projects start generating revenue*
@@ -286,12 +306,13 @@
 ## Session History
 
 ### 2025-12-16
+- Added FarmCalc (agriculture calculator network) - livestock, crops, fertilizer, fencing with premium ad rates
 - Added PetPicks (curated pet product recommendations) - dog food, cat litter, beds, toys with Chewy affiliate
 - Added QR Forge (pre-Interstellar project, near complete)
 - Added GitHub repos and Railway URLs for active projects
 - Moved 6 projects to Active/In Development: QR Forge, Crunch, Sift, HueGo, Simmer, Good Game
 - Updated project statuses to reflect actual development state
-- Now 12 projects in portfolio
+- Now 13 projects in portfolio
 
 ### 2025-12-15
 - Added Summit58 (Colorado 14ers guide) - mobile-first, SvelteKit + Supabase + Railway, replaces 14ers.com
@@ -331,6 +352,7 @@
 - [GEAREDUP.md](./docs/session-start/GEAREDUP.md)
 - [SUMMIT58.md](./docs/session-start/SUMMIT58.md)
 - [PETPICKS.md](./docs/session-start/PETPICKS.md)
+- [FARMCALC.md](./docs/session-start/FARMCALC.md)
 - [_TEMPLATE.md](./docs/session-start/_TEMPLATE.md)
 
 **Playbooks:**
