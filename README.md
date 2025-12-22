@@ -4,16 +4,35 @@ Central command for ideation, research, and planning of passive income web proje
 
 ---
 
+## For New Claude Sessions
+
+**If you're here to brainstorm new project ideas:**
+1. Read this README to understand the portfolio philosophy
+2. Check `/project-tracker.md` for current projects and ideas pipeline
+3. Review `/docs/playbooks/` for our standard approaches
+4. Brainstorm ideas that fit the Passive Income Criteria below
+5. Use `/docs/session-start/_TEMPLATE.md` to create session docs for new projects
+
+**If you're here to work on a specific project:**
+1. Find the project in Quick Start below
+2. Read its session-start document
+3. Navigate to that project's repo
+4. Work there, not here
+
+---
+
 ## What is This Repo?
 
 This is **not** a project repo - it's a **meta-repo** for managing multiple passive income projects:
 
-- Brainstorming and researching new ideas
+- **Brainstorming and researching new ideas** - The primary purpose
 - Creating detailed session-start documents for new Claude sessions
 - Tracking status across all projects
 - Storing reusable playbooks and templates
 
 Each actual project lives in its own repo with a comprehensive context document.
+
+**Important:** Interstellar is for planning and ideation. Actual development happens in each project's own repo.
 
 ---
 
@@ -99,6 +118,30 @@ Each actual project lives in its own repo with a comprehensive context document.
 4. Begin work per the implementation plan
 ```
 
+### Starting Work on GreenBack (Climate Incentives)
+```
+1. Read /docs/session-start/GREENBACK.md
+2. Check /project-tracker.md for current status
+3. Navigate to greenback repo
+4. Begin work per the implementation plan
+```
+
+### Starting Work on Evermore (Memorial Sites)
+```
+1. Read /docs/session-start/EVERMORE.md
+2. Check /project-tracker.md for current status
+3. Navigate to evermore repo
+4. Begin work per the implementation plan
+```
+
+### Starting Work on Graphene Pulse (News Hub)
+```
+1. Read /docs/session-start/GRAPHENEPULSE.md
+2. Check /project-tracker.md for current status
+3. Navigate to graphenepulse repo
+4. Begin work per the implementation plan
+```
+
 ### Brainstorming New Ideas
 ```
 1. Check /docs/ideas/raw/ for captured ideas
@@ -148,6 +191,14 @@ interstellar/
 | **Summit58** | ⏸️ Queued | Modern guide to Colorado's 14ers - "The modern 14ers guide" | $2-5K/mo |
 | **PetPicks** | ⏸️ Queued | Curated pet product recommendations - "Picks for your pet" | $2-5K/mo |
 | **FarmCalc** | ⏸️ Queued | Agriculture & farming calculators - "The farmer's calculator" | $2-5K/mo |
+
+### High-Value Projects (Less Passive, Higher Ceiling)
+
+| Project | Status | Description | Revenue Target |
+|---------|--------|-------------|----------------|
+| **GreenBack** | 🟡 Ready | Climate incentive finder - "Get your green back" | $5-10K/mo |
+| **Evermore** | 🟡 Ready | Beautiful memorial sites - "Their memory lives evermore" | $5-10K/mo |
+| **Graphene Pulse** | 🟢 In Dev | AI-powered graphene news hub - "The pulse of the graphene industry" | $2-5K/mo |
 
 See [project-tracker.md](./project-tracker.md) for detailed status.
 
